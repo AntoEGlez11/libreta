@@ -17,3 +17,5 @@ git commit
 git merge
 	-Une dos o más historias de desarrollo juntas
 
+git status
+	-Muestra el estado del árbol de trabajo

@@ -19,3 +19,14 @@ git merge
 
 git status
 	-Muestra el estado del árbol de trabajo
+
+git log
+	-Muestra el historial de los commits
+
+git reset
+	-Nos permite regresar a una version anterior
+**hard - todo vuelve al estado anterior (CUIDADO) vuelve sin guardar cambios
+**soft - 
+
+git diff
+	-Muestra cambios entre commits

@@ -1,0 +1,19 @@
+******COMANDOS DE GIT*****
+git init
+	- crea un repositorio GIT vacio o rinicialice uno existente
+
+git add
+	- agrega contenido del archivo al indice o area de trabajo, en todo momento revisa sin hay cambios
+
+git rm
+	- elimina archivos del arbol de trabajo y del indice
+
+git checkout
+	-Copia archivos de la rama "master" al árbol de trabajo.
+
+git commit
+	-Registra cambios en el repositorio
+
+git merge
+	-Une dos o más historias de desarrollo juntas
+

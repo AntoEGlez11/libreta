@@ -50,3 +50,10 @@ git pull
 
 git branch "nombre de la rama"
 	-Crea una rama de la rama en la que estes posicionado y hay que darle nombre a la nueva rama
+
+git remote
+	-para agregar la URL de Github -origin-
+
+git pull origin master
+	-sirve para bajar los cambios del servidor
+	

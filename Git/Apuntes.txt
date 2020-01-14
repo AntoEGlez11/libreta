@@ -1,8 +1,12 @@
 ******APUNTES DE GIT******
 DIRECTORY o DIRECTORIO
- Es donde se almacenan los metadatos y la base de datos de objetos para tu proyecto. Es la parte más importante de Git, y es lo que se copia cuando clonas un repositorio desde otra computadora.
-WORKING DIRECTORY o DIRECTORIO DE TRABAJO
- Es una copia de una versión del proyecto. Estos archivos se sacan de la base de datos comprimida en el directorio de Git, y se colocan en disco para que los puedas usar o modificar.
-STATING AREA o AREA DE ESTADO
- Es un archivo, generalmente contenido en tu directorio de Git, que almacena información acerca de lo que va a ir en tu próxima confirmación. A veces se le denomina índice (“index”), pero se está convirtiendo en estándar el referirse a ella como el área de preparación.
+ Es donde se almacenan los metadatos y la base de datos de objetos para tu proyecto. Es la parte mï¿½s importante de Git, y es lo que se copia cuando clonas un repositorio desde otra computadora.
 
+WORKING DIRECTORY o DIRECTORIO DE TRABAJO
+ Es una copia de una versiï¿½n del proyecto. Estos archivos se sacan de la base de datos comprimida en el directorio de Git, y se colocan en disco para que los puedas usar o modificar.
+
+STATING AREA o AREA DE ESTADO
+ Es un archivo, generalmente contenido en tu directorio de Git, que almacena informaciï¿½n acerca de lo que va a ir en tu prï¿½xima confirmaciï¿½n. A veces se le denomina ï¿½ndice (ï¿½indexï¿½), pero se estï¿½ convirtiendo en estï¿½ndar el referirse a ella como el ï¿½rea de preparaciï¿½n.
+
+RAMAS
+ Son repositorios paralelas con las que puedes hacer cambios sin afectar la rama maestra

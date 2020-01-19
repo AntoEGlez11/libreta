@@ -1,0 +1,31 @@
+<!-- Para la entrada de datos por teclado tenemos la función prompt. Cada vez que necesitamos ingresar un dato con ésta función aparece una ventana donde cargamos el valor.Hay otras maneras despues se veran a fondo -->
+
+0<!DOCTYPE html>
+<html>
+
+<head>
+     <title>Entrada de Datos por teclado</title>
+     <meta charset="UTF-8">
+</head>
+
+<body>
+
+     <script>
+          // La sintaxis de la función prompt es:
+          // <variable que recibe el dato>=prompt(<mensaje a mostrar en la ventana>,<valor inicial a mostrar en la ventana>);
+          // La función prompt tiene dos parámetros: uno es el mensaje y el otro el valor inicial a mostrar.
+
+          var nombre;
+          var edad;
+          nombre = prompt('Ingrese su nombre:', '');
+          edad = prompt('Ingrese su edad:', '');
+          document.write('Hola ');
+          document.write(nombre);
+          document.write(' asi que tienes ');
+          document.write(edad);
+          document.write(' años');
+     </script>
+
+</body>
+
+</html>
